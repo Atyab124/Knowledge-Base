@@ -17,5 +17,5 @@ with its own entry file. This file only routes; it never holds content.
 
 ## Not a piece
 
-`_system/` holds tooling used to build/maintain this repo's own structure
-(e.g. the icm-architect skill source) — not something an agent drafts from.
+`_system/` holds tooling used to build/maintain this repo's own structure —
+not something an agent drafts from. Entry point: `_system/README.md`.
