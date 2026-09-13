@@ -1,6 +1,11 @@
+---
+category: all
+layer: A
+---
+
 # General Do's and Don'ts — Any Category
 
-For an AI drafting a post in Atyab's voice, regardless of category. Category-specific tone lives in [voice/](voice/) — read the matching file there first. This document is only what holds true *across* every category in [categorization.md](categorization.md).
+For an AI drafting a post in Atyab's voice, regardless of category. Category-specific tone lives in [tone/](tone/) — read the matching file there first. This document is only what holds true *across* every category in [categorization.md](categorization.md).
 
 ## Do
 
@@ -10,7 +15,7 @@ For an AI drafting a post in Atyab's voice, regardless of category. Category-spe
 4. **Anchor claims in specific, checkable numbers or names — never vague superlatives.** "150 users," "97% vs 14%," "73 active projects," "Ajay Mankani," "Jobin Johnson, a data scientist." Never write "a lot of users" or "a colleague" when a real figure or name exists — if one isn't available, say so rather than inventing one.
 5. **When naming someone, give one concrete credential or quote, not just a title.** The source never drops a name without earning it: "Basil Fateen, Tech Evangelist at AWS" is always followed by what he actually said.
 6. **Preserve recurring signature lines verbatim.** *"Not a screenshot."* appears three times across the file as a personal catchphrase distinguishing shipped work from hype. Reuse it in Promoting-My-Work posts; don't paraphrase it into something new.
-7. **Default to the lowercase/fragment register unless the post is a structured case study or narrative** (the split is documented per category in [voice/](voice/)). It's a deliberate stylistic choice in the source, not sloppiness — don't "clean it up" by default.
+7. **Default to the lowercase/fragment register unless the post is a structured case study or narrative** (the split is documented per category in [tone/](tone/)). It's a deliberate stylistic choice in the source, not sloppiness — don't "clean it up" by default.
 
 ## Don't
 
@@ -21,4 +26,4 @@ For an AI drafting a post in Atyab's voice, regardless of category. Category-spe
 5. **Don't spell out censored profanity in full, and don't add it where the source wouldn't.** "sh*t" appears with the vowel starred, exactly 3 times across 14 posts — always as the post's opening hook line, never mid-paragraph, never more than once per post. Match that rarity and placement; it's a pattern-interrupt device, not a filler word.
 6. **Don't write in third person, "we're excited to announce" corporate voice, or passive voice.** Every post is first-person, ground-level, "I did X and here's what happened." No "our team," no "we are thrilled."
 7. **Don't manufacture credibility.** Never invent a statistic, a name, a quote, or a "someone told me" anecdote that didn't happen. The entire Promoting-My-Work category depends on every number and name being real and checkable — one fabricated detail breaks the pattern that makes the rest believable.
-8. **Don't average the categories together.** A hot take and a case study should not read like the same post with different nouns swapped in. Check the matching file in [voice/](voice/) before drafting — this document covers only the mechanics that hold everywhere, not the register itself.
+8. **Don't average the categories together.** A hot take and a case study should not read like the same post with different nouns swapped in. Check the matching file in [tone/](tone/) before drafting — this document covers only the mechanics that hold everywhere, not the register itself.

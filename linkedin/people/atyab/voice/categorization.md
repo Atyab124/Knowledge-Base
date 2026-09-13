@@ -19,12 +19,12 @@ Five categories emerged from what's actually in the file — I started from your
 | 4 | **Opinions & Hot Takes** | 5, 8, 9b | Provocative stance on AI/work/business, built to be quoted or argued with |
 | 5 | **Networking & Relationship Capital** | 12a, 12b | Gratitude / access / who you're learning from — credibility by association |
 
-Voice guide for each: [voice/sharing-knowledge.md](voice/sharing-knowledge.md) · [voice/promoting-work.md](voice/promoting-work.md) · [voice/behind-the-scenes.md](voice/behind-the-scenes.md) · [voice/hot-takes.md](voice/hot-takes.md) · [voice/networking-gratitude.md](voice/networking-gratitude.md)
+Voice guide for each: [tone/sharing-knowledge.md](tone/sharing-knowledge.md) · [tone/promoting-work.md](tone/promoting-work.md) · [tone/behind-the-scenes.md](tone/behind-the-scenes.md) · [tone/hot-takes.md](tone/hot-takes.md) · [tone/networking-gratitude.md](tone/networking-gratitude.md)
 
 ## Post-by-post
 
 1. **"Everyone is asking whether AI agents can write error free production code."** → **Promoting My Work** (primary), Sharing Knowledge (secondary). The TaskIt case study — heaviest data density in the file (97% vs 14%, 150 users, 73 projects). Structured like a technical teardown, but its job is proof-of-work, not tips.
-2. **"I wanted to see if Claude Code could really run unsupervised for 18 hours..."** → **Behind-the-Scenes**. The only clear example of this register in the file — see the caveat in [voice/behind-the-scenes.md](voice/behind-the-scenes.md).
+2. **"I wanted to see if Claude Code could really run unsupervised for 18 hours..."** → **Behind-the-Scenes**. The only clear example of this register in the file — see the caveat in [tone/behind-the-scenes.md](tone/behind-the-scenes.md).
 3. **"Claude Ultra Code"** → **Promoting My Work**. Competitive positioning — draws the boundary between your framework and a competing tool.
 4. **"What do you think?"** → **Sharing Knowledge**. A single tactical prompting trick, tightly told.
 5. **"This is exactly it."** → **Opinions & Hot Takes**. Commentary on AI-and-jobs sentiment, no proof-of-work attached.
