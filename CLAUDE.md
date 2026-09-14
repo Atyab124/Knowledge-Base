@@ -8,6 +8,7 @@ with its own entry file. This file only routes; it never holds content.
 | Piece | For | Entry point |
 |---|---|---|
 | `linkedin/` | Drafting/voice-matching LinkedIn posts | `linkedin/CLAUDE.md` |
+| `projects/` | Context on Atyab's GitHub projects | `projects/CLAUDE.md` |
 
 ## Adding a new piece
 
