@@ -9,10 +9,11 @@ carry over from his file at all.
 
 | Step | Read | Why |
 |---|---|---|
-| 1 | `dos-and-donts.md` | Always — mechanics that hold across every category |
-| 2 | `tone/<category>.md` | Exactly one — match the post's category (see step 3 if unsure) |
-| 3 | `categorization.md` | Only if unsure which category applies, or auditing a past call |
-| 4 | `corpus/posts.md` | Only if you need a raw, verbatim example beyond what's excerpted |
+| 1 | `../../../_shared/platform-conventions.md` | Always — mechanical facts true for every person, not just Aryan |
+| 2 | `dos-and-donts.md` | Always — what's specific to Aryan across every category |
+| 3 | `tone/<category>.md` | Exactly one — match the post's category (see step 4 if unsure) |
+| 4 | `categorization.md` | Only if unsure which category applies, or auditing a past call |
+| 5 | `corpus/posts.md` | Only if you need a raw, verbatim example beyond what's excerpted |
 
 ## Categories
 

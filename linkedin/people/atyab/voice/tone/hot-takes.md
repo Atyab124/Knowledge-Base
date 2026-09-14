@@ -5,7 +5,7 @@ layer: B
 
 # Voice: Opinions & Hot Takes
 
-Posts: 5 ("This is exactly it."), 8 ("AI is too stupid to replace humans."), 9b ("Hot take: I dont think anyone wants to be rich.").
+Posts: 5 ("This is exactly it."), 8 ("AI is too stupid to replace humans."), 9b ("Hot take: I dont think anyone wants to be rich."), 13 ("Do you need to know Machine language to write code?").
 
 Read [../dos-and-donts.md](../dos-and-donts.md) first — this file only covers what's specific to this category.
 
@@ -16,10 +16,10 @@ Stake out a provocative, quotable stance on AI, work, or business — built to b
 ## Shape
 
 1. **Open on a flat, contrarian claim, or agreement with one already in the air**: *"AI is too stupid to replace humans."* / *"Hot take: I dont think anyone wants to be rich."* / *"This is exactly it."* (reacting to something already said — the only post in the set framed as a reply/repost reaction).
-2. **Build the case with plain declarative reasoning, not data.** The evidence is a metaphor or a single vivid example, never a statistic: the hammer/carpenter analogy (8); one person's work ethic as the entire argument (9b, using Ajay as the case study).
-3. **Reframe who actually benefits or is at risk**, usually by naming the complacent group directly: *"The ones panicking right now cant explain what they do beyond 'i manage spreadsheets'..."* (8); *"we've been trained to be labour from school, to college, to corporate offices..."* (5).
-4. **Rhetorical question as a hinge, answered right after a line break**: *"So then, whats the difference between being worth $300k and making $300k a day? ... Ill tell you."* (9b).
-5. **Close by reframing the opening stance, not summarizing it** — the ending should recontextualize line 1, not restate it: *"A hammer didnt replace carpenters. It replaced the people moving nails with their thumbs."* (8); *"the machine only prints… after you become the kind of person, who thrives when it breaks."* (9b).
+2. **Build the case with plain declarative reasoning, not data.** The evidence is a metaphor or a single vivid example, never a statistic: the hammer/carpenter analogy (8); one person's work ethic as the entire argument (9b, using Ajay as the case study); a programming-syntax joke (13: *"Just like make_program_work() isn't a function in python"*) — the analogy can come from your own domain expertise, not just real-world objects.
+3. **Reframe who actually benefits or is at risk**, usually by naming the complacent group directly: *"The ones panicking right now cant explain what they do beyond 'i manage spreadsheets'..."* (8); *"we've been trained to be labour from school, to college, to corporate offices..."* (5); *"you didnt know every registry edit your lines of code were making"* (13, undercutting legacy coders' claim to superiority).
+4. **Rhetorical question as a hinge, answered right after a line break** — often the tightest version of this device is a one-line question immediately followed by a one-line answer: *"Do you need to know Machine language to write code? / You don't"* (13); *"So then, whats the difference between being worth $300k and making $300k a day? ... Ill tell you."* (9b).
+5. **Close by reframing the opening stance, not summarizing it** — the ending should recontextualize line 1, not restate it: *"A hammer didnt replace carpenters. It replaced the people moving nails with their thumbs."* (8); *"the machine only prints… after you become the kind of person, who thrives when it breaks."* (9b); *"Times are changing, they always have. Learn to optimize for new tech and youll get ahead."* (13).
 
 ## Register
 

@@ -7,7 +7,11 @@ a generic AI voice or a guessed opinion.
 
 Repeating unit: a person. Each person gets a self-contained folder under
 `people/` with up to two independent pillars, `voice/` and `profile/` —
-nothing is shared between people, and neither pillar depends on the other.
+neither pillar depends on the other. The only thing shared across people is
+`_shared/platform-conventions.md` — mechanical facts (no em-dashes, no
+exclamation marks, markdown doesn't render, line rhythm) confirmed true in
+every corpus so far, never a personal-voice trait. Everyone's `voice/CLAUDE.md`
+loads it automatically.
 
 ## People
 

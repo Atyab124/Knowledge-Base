@@ -720,6 +720,27 @@ And I hope I can do the same for them.
 
 
 
+13. Do you need to know Machine language to write code?
+
+You don't
+
+Thats how I feel when legacy coders look down on vibecoders nowadays
+
+All these memes where vibecoders don't know "the stack"
+
+Sure, but you didnt know every registry edit your lines of code were making
+
+And I am not saying Vibe coding is simply asking a wish and having it come true
+
+Just like make_program_work() isn't a function in python
+
+There's always a way to do things correctly.
+
+Times are changing, they always have. Learn to optimize for new tech and youll get ahead.
+
+
+
+
 
 
 

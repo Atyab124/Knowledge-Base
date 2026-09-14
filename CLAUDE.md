@@ -19,3 +19,11 @@ with its own entry file. This file only routes; it never holds content.
 
 `_system/` holds tooling used to build/maintain this repo's own structure —
 not something an agent drafts from. Entry point: `_system/README.md`.
+
+## Standing behavior
+
+Repo-wide, not tied to any piece — this is the one file every session loads
+regardless of which piece gets touched.
+
+- Explanations always route through `/explain`.
+- Ambiguity always routes through `/ask`.

@@ -5,7 +5,7 @@ layer: C
 
 # LinkedIn Post Categories
 
-Source: [`posts.md`](corpus/posts.md) — 14 posts. (The source file's own numbering repeats `9` and `12` once each; I've treated those as separate posts and labeled them `9a`/`9b` and `12a`/`12b` below so references are unambiguous.)
+Source: [`posts.md`](corpus/posts.md) — 15 posts. (The source file's own numbering repeats `9` and `12` once each; I've treated those as separate posts and labeled them `9a`/`9b` and `12a`/`12b` below so references are unambiguous.)
 
 Five categories emerged from what's actually in the file — I started from your two examples (Sharing Knowledge, Promoting My Work) and built the rest from what the remaining posts actually do, not from a generic template.
 
@@ -16,7 +16,7 @@ Five categories emerged from what's actually in the file — I started from your
 | 1 | **Sharing Knowledge** | 4, 6, 10, 11 | Teach one concrete, generalizable lesson pulled from real hands-on work |
 | 2 | **Promoting My Work** | 1, 3, 7, 9a | Prove something real got built/shipped; credibility for clients, collaborators, recruiters |
 | 3 | **Behind-the-Scenes** | 2 | Raw, low-effort process update — building in public, no polish, no pitch |
-| 4 | **Opinions & Hot Takes** | 5, 8, 9b | Provocative stance on AI/work/business, built to be quoted or argued with |
+| 4 | **Opinions & Hot Takes** | 5, 8, 9b, 13 | Provocative stance on AI/work/business, built to be quoted or argued with |
 | 5 | **Networking & Relationship Capital** | 12a, 12b | Gratitude / access / who you're learning from — credibility by association |
 
 Voice guide for each: [tone/sharing-knowledge.md](tone/sharing-knowledge.md) · [tone/promoting-work.md](tone/promoting-work.md) · [tone/behind-the-scenes.md](tone/behind-the-scenes.md) · [tone/hot-takes.md](tone/hot-takes.md) · [tone/networking-gratitude.md](tone/networking-gratitude.md)
@@ -37,6 +37,7 @@ Voice guide for each: [tone/sharing-knowledge.md](tone/sharing-knowledge.md) · 
 11. **"If you walk into an AI interview without using AI…"** → **Sharing Knowledge**. Interview narrative used as a vehicle for a concrete tools list and one general skill claim (adaptive learning).
 12. a. **"Yesterday taught me that you grow fastest..."** → **Networking & Relationship Capital**. Event recap, six people named with a one-line credential/insight each.
     b. **"I Think I Finally Get It."** → **Networking & Relationship Capital**. The philosophy version of 12a with no specific event attached.
+13. **"Do you need to know Machine language to write code? You don't"** → **Opinions & Hot Takes**. Same skeleton as 5/8/9b: rhetorical-question opener answered on the very next line, a reframe of who's actually at fault (legacy coders didn't understand register-level detail either), closing on a portable "times change, adapt" principle. New domain for this category (vibe-coding vs. traditional coding) and a new device — the evidence is a programming-syntax joke (`make_program_work()` isn't a real function) rather than a real-world analogy.
 
 ## Judgment calls worth flagging
 
