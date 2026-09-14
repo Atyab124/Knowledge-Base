@@ -11,10 +11,19 @@ from a blank page each time.
 
 ## Projects
 
-*(none yet — Atyab will provide project context; each becomes a row here and
-a folder under `repos/`)*
+17 projects catalogued from Atyab's public GitHub — full list, one line each,
+with status: [_index/log.md](_index/log.md). Load one project's own
+`repos/<slug>/context.md` for the task at hand; never load all 17 at once.
 
-Full catalog once populated (id + status, one line each): [_index/log.md](_index/log.md)
+Standouts if the task is "what's most worth showing off": `production-framework`
+(the actual system behind his LinkedIn posts about a CTO-agent build framework),
+`arcade-management` (full multi-tenant SaaS, real security posture), `reels-engine`
+(his own project built on this repo's own ICM methodology), `end-to-end-rag-pipeline`
+(most complete RAG build — guardrails + eval harness).
+
+**Known gap**: only public repos are represented (`gh` CLI isn't installed/
+authenticated in this environment). If Atyab has private repos worth cataloguing,
+their context needs to come from him directly, same as any project update.
 
 ## Adding a project
 
